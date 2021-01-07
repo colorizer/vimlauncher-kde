@@ -4,7 +4,7 @@ Python code for launching vim from anywhere. I am using this to input latex anyw
 1. xdotool
 2. xclip
 3. python3
-4 konsole
+4. konsole
 
 ## Bugs
 - [ ] Unable to paste the output through command.
