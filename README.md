@@ -20,5 +20,5 @@ nnoremap <C-d> :wq!<cr>
 - Manually set the shortcut through KDE settings.
 
 ## Thanks
-This code is mainly derived out of Gilles Castel's works on making tex input faster. Those shortcuts are part of my daily workflow now. Here is a link to his profile.
-https://github.com/gillescastel
+This code is mainly derived out of Gilles Castel's works on making tex input faster. Those shortcuts are part of my daily workflow now. Here is a link to his [profile](https://github.com/gillescastel).
+
