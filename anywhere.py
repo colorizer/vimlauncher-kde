@@ -10,7 +10,7 @@ def copy(string):
     )
 def get():
     result = subprocess.run(
-        ['xdtool', 'getactivewindow', 'key', 'ctrl+v'],
+        ['xdotool', 'getactivewindow', 'key', 'ctrl+v'],
         stdout=subprocess.PIPE,
         universal_newlines=True
     )
@@ -36,4 +36,4 @@ def open_vim():
     copy(latex)
     
 open_vim()
-#get()
+get()
